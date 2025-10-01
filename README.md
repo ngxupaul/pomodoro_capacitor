@@ -197,10 +197,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Main Timer Interface**
 ![Pomodoro Timer](public/images/Screenshot%202025-10-01%20at%2007.31.17.png)
 
-**Settings Panel**
+**Notification & pop up when times up**
 ![Settings](public/images/Screenshot%202025-10-01%20at%2007.35.13.png)
 
-**Session History**
+**Notification**
 ![Session History](public/images/Screenshot%202025-10-01%20at%2007.35.21.png)
 
 </div>
